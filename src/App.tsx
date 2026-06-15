@@ -76,7 +76,7 @@ const App: React.FC = () => {
                   lineHeight: 1.2,
                 }}
               >
-                צוות הפרויקט
+                נותני שירות 
               </Typography>
             </Box>
           </Box>
